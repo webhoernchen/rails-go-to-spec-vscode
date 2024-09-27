@@ -1,5 +1,7 @@
 # Rails Go to Spec V3 extension for VSCODE
 
+This extension is a fork of https://github.com/sporto/rails-go-to-spec-vscode
+
 Jump between code and spec in Rails projects.
 
 To install search for
@@ -8,7 +10,7 @@ To install search for
 rails-go-to-spec-v3
 ```
 
-The difference with the original version is that this extension allows you to ‘Go to Spec’ when have a service, and for each method of the service, there is a different spec file.
+The difference with the original is that this extension allows you to ‘Go to Spec’ when have a service, and for each method of the service, there is a different spec file.
 
 For example:
 
